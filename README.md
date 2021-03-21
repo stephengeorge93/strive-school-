@@ -1,2 +1,2 @@
 # strive-school-
-exercise 1
+WEEK 1
