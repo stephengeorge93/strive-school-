@@ -1,2 +1,2 @@
 # strive-school-
-WEEK 1
+please follow me so i can follow you back
