@@ -1,0 +1,40 @@
+1616675374236	geckodriver	INFO	Listening on 127.0.0.1:53100
+1616675377280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofileHPn1Rf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616675386593	Marionette	INFO	Listening on port 53108
+1616675387165	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616684615937	Marionette	INFO	Stopped listening on port 53108
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofilec6s7Vy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616681719584	Marionette	INFO	Listening on port 55295
+1616681720078	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1616684614420	Marionette	INFO	Stopped listening on port 55295
+ings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684471807	Marionette	INFO	Listening on port 55773
+1616684471900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616684613640	Marionette	INFO	Stopped listening on port 55773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofileYMxFtw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684530409	Marionette	INFO	Listening on port 55858
+1616684530672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616684610708	Marionette	INFO	Stopped listening on port 55858
+6684585005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofileduJop3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684607180	Marionette	INFO	Listening on port 55998
+1616684607363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616684609201	Marionette	INFO	Stopped listening on port 55998
+1616684693089	geckodriver	INFO	Listening on 127.0.0.1:56065
+1616684696144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofileYmfyie"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684707791	Marionette	INFO	Listening on port 56073
+1616684708252	Marionette	WARN	TLS certificate errors will be ignored for this session
