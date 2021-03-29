@@ -45,3 +45,13 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundEr
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
 
+1616940043685	geckodriver	INFO	Listening on 127.0.0.1:63939
+1616940046786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Win10\\AppData\\Local\\Temp\\rust_mozprofilesAd17r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616940056357	Marionette	INFO	Listening on port 63947
+1616940056972	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Win10\AppData\Local\Temp\rust_mozprofilesAd17r\protections.sqlite
